@@ -5,7 +5,6 @@ body {
   line-height: 1.6;
   color: white;
   background-color: black;
-  /* put your own picture at images/background.jpg */
   background-image: url("../images/background.jpg");
   background-size: cover;
   background-attachment: fixed;
